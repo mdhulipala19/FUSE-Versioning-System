@@ -1,4 +1,6 @@
- 
+# FUSE-Versioning-System
+Systems/ Memory Management project
+
 // Complie command
  gcc -Wall versfs.c `pkg-config fuse --cflags --libs` -ggdb -o versfs
 
